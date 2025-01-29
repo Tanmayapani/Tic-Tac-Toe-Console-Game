@@ -37,16 +37,16 @@ The game is implemented in C++ and consists of the following components:
 
 1. **Prerequisites**: Ensure you have a C++ compiler installed (e.g., GCC, Clang, or MSVC).
 2. **Compile the Code**:
-   - Save the code in a file named `tic_tac_toe.cpp`.
+   - Save the code in a file named `game.cpp`.
    - Open a terminal or command prompt and navigate to the directory containing the file.
    - Compile the code using the following command:
      ```bash
-     g++ tic_tac_toe.cpp -o tic_tac_toe
+     g++ game.cpp -o game
      ```
 3. **Run the Executable**:
    - After compiling, run the game using:
      ```bash
-     ./tic_tac_toe
+     ./game
      ```
    - Follow the on-screen instructions to play the game.
 
